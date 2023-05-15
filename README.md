@@ -10,3 +10,4 @@ Halo semuanya, saya Ryan. Saya berasal dari Indonesia, Bali. Saya lahir di Denpa
 ## Completed Project
 - [Dino Game(Scratch)](https://scratch.mit.edu/projects/736981548/editor)
 - [Cyberbullying Web](https://ryyanna.github.io/cyberbullying/)
+- [Baswara Class Web](https://ryyanna.github.io/baswara/)
